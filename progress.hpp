@@ -4,17 +4,14 @@
  * @Email:  pkalbers@gmail.com
  * @Filename: progress.hpp
  * @Last modified by:   pkalbers
- * @Last modified time: 2017-06-21T23:23:28+01:00
+ * @Last modified time: 2017-06-21T23:34:56+01:00
  */
 
 
 #ifndef progress_hpp
 #define progress_hpp
 
-// C
-#include <stdio.h>
 
-// C++
 #include <chrono>
 #include <mutex>
 #include <iomanip>
